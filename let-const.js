@@ -21,3 +21,4 @@ patientName="Momin Chacha";
 console.log(patientName);
 
 
+
